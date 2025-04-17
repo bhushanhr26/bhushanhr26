@@ -24,8 +24,6 @@
 
 ### 🎓 Training & Mentorship
 - Passionate about Training & Mentorship in the tech industry.
-### 📄 Resume
-- [View my Resume](https://www.notion.so/pesto/Bajrang-Bhushan-c540b96c70864176a34aa2192dd4754a?pvs=4)
 
 ### Contact Number
 - +91 7739625372
